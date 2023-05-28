@@ -3,11 +3,6 @@
 ![logo-mysql-26300](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/50481f61-cf73-4d1e-90bc-b1094e78bd6c)
 
 
-![logo-mysql-26300](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/9d3c2e63-0928-421b-868f-857be8047113)
-
-![logo-mysql-26355](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/1488505c-c7db-46d8-be80-a2122851289d) 
-
-![logo-mysql-26300](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/f4a3062c-6250-4a46-a2b0-de43a5cdfe85)
 
 
 
