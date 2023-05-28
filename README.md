@@ -1,6 +1,7 @@
 # SalesInsight
 
 ![logo-mysql-26300](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/50481f61-cf73-4d1e-90bc-b1094e78bd6c)
+![icons8-sql-60 (1)](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/3aa4d56f-2581-4569-9029-e4c67be20f1e)
 
 
 
