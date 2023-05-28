@@ -4,13 +4,6 @@
 ![icons8-sql-60 (1)](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/3aa4d56f-2581-4569-9029-e4c67be20f1e)
 ![icons8-power-bi-200](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/26e677e1-83d9-42b0-893f-432b05e6b074)
 
-![icons8-power-bi-240](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/0158c8be-cd43-48a6-a397-4a161dc8eb77)
-
-
-
-
-
-
 ### Designed a Power BI Dashboard to understand the sales trend.
 ### The Final Dashboard is so effective displaying the sales trend,allow users to understand the data and make informed decisions.
 ### This Dashboard can help to undertand the weak point and give some ideas to sales manager to increase the sales in next quarter.
@@ -25,3 +18,5 @@
 ### Gain Insights about the sales
 
 # Screenshots
+
+
