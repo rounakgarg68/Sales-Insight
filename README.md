@@ -19,4 +19,5 @@
 
 # Screenshots
 
+![Screenshot (5)](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/cff8e555-b10c-453d-a157-2ed9fb1f6248)
 
