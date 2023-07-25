@@ -18,6 +18,8 @@
 ### Gain Insights about the sales
 
 # Screenshots
+![Screenshot (6)](https://github.com/rounakgarg68/Sales-Insight/assets/87636522/5cf7db07-67a0-45f7-b131-d1606eb8a3b0)
+
 
 
 
